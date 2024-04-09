@@ -31,8 +31,8 @@ backend/venv/
 node_modules/
 
 #Unused files
-frontend/ai-community-gen-frontend/src/App.css
-frontend/ai-community-gen-frontend/src/App.test.js
-frontend/ai-community-gen-frontend/src/logo.svg
-frontend/ai-community-gen-frontend/src/reportWebVitals.js
-frontend/ai-community-gen-frontend/src/setupTests.js
+#frontend/ai-community-gen-frontend/src/App.css
+#frontend/ai-community-gen-frontend/src/App.test.js
+#frontend/ai-community-gen-frontend/src/logo.svg
+#frontend/ai-community-gen-frontend/src/reportWebVitals.js
+#frontend/ai-community-gen-frontend/src/setupTests.js
