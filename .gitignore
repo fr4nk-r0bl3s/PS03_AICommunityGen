@@ -35,4 +35,4 @@ node_modules/
 #frontend/ai-community-gen-frontend/src/App.test.js
 #frontend/ai-community-gen-frontend/src/logo.svg
 #frontend/ai-community-gen-frontend/src/reportWebVitals.js
-#frontend/ai-community-gen-frontend/src/setupTests.js
+frontend/ai-community-gen-frontend/src/setupTests.js
