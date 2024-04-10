@@ -123,7 +123,7 @@ function App() {
                 </div>
             </div>
             <h2 className="text-base font-bold mb-4">AICommunityGen - Ver. 0.1</h2>
-            <p className="mb-6 text-sm">This AI-enhanced tool allows you to create customized content for real estate communities effortlessly with just a few clicks.</p>
+            <p className="mb-6 text-sm">This AI-enhanced tool allows you to create customized content for real estate communities effortlessly, with just a few clicks.</p>
             <div className="flex gap-8">
                 <div className="flex-1 p-6 rounded-lg bg-slate-800">
                     <div className="mb-6">
